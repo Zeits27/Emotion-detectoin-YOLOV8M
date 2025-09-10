@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+
+roboflow:
+  workspace: human-face-expression-recognition
+  project: human-face-expression
+  version: 20
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/human-face-expression-recognition/human-face-expression/dataset/20

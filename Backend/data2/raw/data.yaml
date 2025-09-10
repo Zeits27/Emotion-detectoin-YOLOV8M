@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['anger', 'content', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+
+roboflow:
+  workspace: emotions-dectection
+  project: human-face-emotions
+  version: 28
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/emotions-dectection/human-face-emotions/dataset/28
