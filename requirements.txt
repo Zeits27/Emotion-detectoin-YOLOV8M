@@ -1,0 +1,27 @@
+# === Flask Backend & API ===
+flask
+flask-cors
+python-dotenv
+psycopg2-binary
+requests
+
+# === Deep Learning & YOLO ===
+torch
+torchvision
+torchaudio
+ultralytics
+ultralytics-thop
+
+# === Computer Vision ===
+opencv-contrib-python
+pillow
+scikit-image
+albumentations
+
+# === Data Science & Utils ===
+numpy
+pandas
+pyyaml
+tqdm
+seaborn
+matplotlib
